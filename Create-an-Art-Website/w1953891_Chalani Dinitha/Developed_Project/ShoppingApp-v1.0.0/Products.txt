@@ -1,0 +1,7 @@
+Product Id: E4187
+Product name: er
+Number of available items: 3
+Product price: 3
+Brand: w
+Warranty period: 1
+
